@@ -1,0 +1,107 @@
+.abc1{
+    text-align: right;
+    position: absolute;
+    width: 525px;
+    height: 220px;
+    left: 745px;
+    top: 120px;
+}
+.texta{
+    font-weight: 70px;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 55px;
+}
+.textb{
+    font-size: 18px;
+
+}
+.button{
+    width: 130px;
+    height: 50px;
+    left: 1210px;
+    top: 578px;
+    border-radius: 5px;
+    background-color: brown;
+}
+.banner{
+    width: 100%;
+    border-radius: 5px;
+}
+.abc2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 80px;
+
+}
+.textc{
+    margin-top: 200px;
+
+}
+.bio{
+    font-size: 45px;
+}
+.plan{
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 700;
+}
+.plan2{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+    
+}
+.watch{
+    width: 1000px;
+    margin-top: 50px;
+    margin-left: 213px;
+}
+.abc3{
+    position: absolute;
+    width: 1000px;
+    height: 270px;
+    left: 220px;
+    top: 1933px; 
+    
+    background: linear-gradient(90deg, #f17f22e6 0%, rgba(241, 91, 34, 0) 100%);
+    border-radius: 8px;
+}
+.textd{
+    color: whitesmoke;
+    margin-left: 40px;
+    font-size: 40px;
+    font-weight: 700px;
+}
+.button2{
+    border-radius: 5px;
+    width: 130px;
+    height: 50px;
+    margin-left: 40px;
+}
+.foter {
+    padding: 50px;
+    margin-top: 80px;
+    color: whitesmoke;
+    background-color: #151414;
+    display: flex;
+    justify-content: space-around;
+}
+input {
+border-radius: 5px;
+width: 220px;
+height: 35px;
+}
+.button3{
+    font-weight: bold;
+    color: #F15B22;
+    border-radius: 5px;
+    margin-top: 8px;
+    width: 100px;
+    height: 40px;
+}
+.sub{
+    font-weight: bold;
+    color: #F15B22;
+}
